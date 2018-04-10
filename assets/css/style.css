@@ -5,6 +5,16 @@
 body {
     background: lightseagreen;
 }
+.wrapper {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777777;
+}
+
+
+h2, h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #4aaaa5;
+}
 
 .header {
     background: #ffffff;
@@ -17,9 +27,7 @@ body {
     color: #ffffff;
     width: 250px;
     height: 48px;
-
 }
-
  
 #nav {
     color: #4aaaa5;
@@ -29,34 +37,26 @@ body {
     width: 300px;
 }
 
-h2 h3 {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    color: #4aaaa5;
-}
-
 .content {
     background: #ffffff;
     border-color: #dddddd;
     width: 960px;
     height: 400px;
-    font-family: Arial, Helvetica, sans-serif;
-    color: #777777;
+    
 }
 .contact {
     background: #ffffff;
     border-color: #dddddd;
     width: 400px;
     height: 450px;
-    font-family: Arial, Helvetica, sans-serif;
-    color: #777777;
+    
 }
 #nav_contact{
     background: #ffffff;
     border-color: #dddddd;
     width: 250px;
     height: 180px;
-    font-family: Arial, Helvetica, sans-serif;
-    color: #777777;
+    
 }
 #footer {
     background: #666666;
