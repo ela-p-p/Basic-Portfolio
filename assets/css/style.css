@@ -87,7 +87,6 @@ h2, h3 {
 }
 .contact {
     background: #ffffff;
-    border-color: #dddddd;
     width: 600px;
     height: 460px;
     margin: 40px 20px 20px 185px;
@@ -96,12 +95,45 @@ h2, h3 {
 
 }
 
+.portfolio {
+    width: 860px;
+    height: 900px;
+    background: #ffffff;
+    border: 2px solid  #dddddd;
+    margin: 40px 190px; auto auto;
+    padding: 0 20px 0 20px;
+}
+
 #form {
     padding: 20px;
     line-break: loose;
 }
+ 
+.box1 {
+    float: left;
+    margin: 20px;
+}
 
-    
+.box2 {
+    float: left;
+    margin: 20px;
+
+}
+
+.box3 {
+    margin: 20px auto auto 40px; 
+    float: left;
+}
+
+.box4 {
+    margin: 20px;
+    clear: left;
+} 
+
+#box-set {
+    padding: 40px;
+}   
+
 
 #footer {
     background: #666666;
