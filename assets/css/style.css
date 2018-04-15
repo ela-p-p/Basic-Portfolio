@@ -100,8 +100,8 @@ h2, h3 {
     height: 900px;
     background: #ffffff;
     border: 2px solid  #dddddd;
-    margin: 40px 190px; auto auto;
-    padding: 0 20px 0 20px;
+    margin: 40px 185px auto auto;
+    padding: 0px 20px 0px 20px;
 }
 
 #form {
@@ -112,26 +112,44 @@ h2, h3 {
 .box1 {
     float: left;
     margin: 20px;
+        
 }
 
 .box2 {
     float: left;
     margin: 20px;
+    
 
 }
 
 .box3 {
-    margin: 20px auto auto 40px; 
     float: left;
+    margin: 20px;
 }
 
 .box4 {
     margin: 20px;
-    clear: left;
+    
 } 
+.box5 {
+    margin: 20px;
+}
+.box6 {
+    margin: 20px;
+}
+.box7 {
+    margin: 20px;
+}
+.box8 {
+    margin: 20px;
+}
+.box9 {
+    margin: 20px;
+}
 
 #box-set {
-    padding: 40px;
+    padding:40px;
+    margin: 0 auto 0 auto;
 }   
 
 
